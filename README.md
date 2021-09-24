@@ -9,3 +9,5 @@
 ## 서비스 
 
 * Django
+* mysql
+
