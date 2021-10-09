@@ -10,6 +10,8 @@
 
 * Django
 * mysql
+* tensorflow
+* selenium
 
 
 
